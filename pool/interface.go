@@ -3,8 +3,8 @@ package pool
 import (
 	"context"
 
-	"github.com/spiral/roadrunner/v2/payload"
-	"github.com/spiral/roadrunner/v2/worker"
+	"github.com/js361014/roadrunner/v2/payload"
+	"github.com/js361014/roadrunner/v2/worker"
 )
 
 // Pool managed set of inner worker processes.

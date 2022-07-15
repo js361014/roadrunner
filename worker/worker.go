@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
+	"github.com/js361014/roadrunner/v2/internal"
 	"github.com/spiral/errors"
 	"github.com/spiral/goridge/v3/pkg/relay"
-	"github.com/spiral/roadrunner/v2/internal"
 	"go.uber.org/multierr"
 	"go.uber.org/zap"
 )

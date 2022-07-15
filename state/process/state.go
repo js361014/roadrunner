@@ -1,9 +1,9 @@
 package process
 
 import (
+	"github.com/js361014/roadrunner/v2/worker"
 	"github.com/shirou/gopsutil/process"
 	"github.com/spiral/errors"
-	"github.com/spiral/roadrunner/v2/worker"
 )
 
 // State provides information about specific worker.

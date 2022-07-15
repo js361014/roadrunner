@@ -6,10 +6,10 @@ import (
 	"sync"
 	"time"
 
+	"github.com/js361014/roadrunner/v2/payload"
 	"github.com/spiral/errors"
 	"github.com/spiral/goridge/v3/pkg/frame"
 	"github.com/spiral/goridge/v3/pkg/relay"
-	"github.com/spiral/roadrunner/v2/payload"
 	"go.uber.org/multierr"
 )
 

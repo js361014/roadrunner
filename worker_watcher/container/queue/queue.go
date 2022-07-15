@@ -5,7 +5,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/spiral/roadrunner/v2/worker"
+	"github.com/js361014/roadrunner/v2/worker"
 )
 
 const (

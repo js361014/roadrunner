@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/js361014/roadrunner/v2/payload"
 	"github.com/spiral/goridge/v3/pkg/relay"
-	"github.com/spiral/roadrunner/v2/payload"
 )
 
 // State represents WorkerProcess status and updated time.
