@@ -66,6 +66,7 @@ func createTCPListener(addr string) (net.Listener, error) {
 		ReusePort:   true,
 		DeferAccept: false,
 		FastOpen:    true,
+		Backlog:     32,
 	}
 
 	/*
